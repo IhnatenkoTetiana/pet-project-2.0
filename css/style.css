@@ -208,7 +208,7 @@ section {
   font-family: 'Roboto Mono', monospace;
 }
 
-/* .slider {
+.slider {
   z-index: 9;
   width: 900px;
   height: 700px;
@@ -232,7 +232,7 @@ section {
   list-style-type: none;
   float: left;
   width: 700px;
-  height: 500px;
+  height: 290px;
 }
 
 .slider .nav {
@@ -257,7 +257,7 @@ section {
 
 .slider .nav span.on {
   background: #353535;
-} */
+}
 
 footer{
   background-color:#474747 ;
